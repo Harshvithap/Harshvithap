@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a coding project with others
 - 📫 How to reach me thru my phone number duh
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have never had ay prior coding experience!
+- ⚡ Fun fact: I have never had any prior coding experience!
 
 <!---
 Harshvithap/Harshvithap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
